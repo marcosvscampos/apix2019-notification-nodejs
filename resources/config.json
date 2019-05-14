@@ -1,6 +1,7 @@
 {
     "connectionURL" : "amqp://localhost:5672",
     "queue": "apix2019",
+    "fromPhone" : "your_phone_from_twilio_account",
     "accountSid" : "your_twilio_accountSid",
     "authToken" : "your_twilio_authToken",
     "exchange" : "pub_sub_apix2019"
